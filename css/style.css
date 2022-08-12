@@ -1,0 +1,27 @@
+/*Global*/
+h1 {
+	margin-bottom: 0px;
+}
+
+.author {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+p {
+	font-family: 'Montserrat';
+	line-height: 25px;
+}
+
+body {
+	margin:  0 20px;
+}
+
+em {
+	font-family: none;
+	font-size: 18px;
+}
+
+#bottom {
+	margin-top: 20px;
+}
